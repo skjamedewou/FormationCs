@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Dev\\FormationCs\\Second_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|c:\\dev\\formationcs\\second_project\\polymorphism\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C7FD946-BFA5-41ED-897F-E88EA411AA5B}|Abstract\\Abstract.csproj|c:\\dev\\formationcs\\second_project\\abstract\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C7FD946-BFA5-41ED-897F-E88EA411AA5B}|Abstract\\Abstract.csproj|solutionrelative:abstract\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|c:\\dev\\formationcs\\second_project\\polymorphism\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|c:\\dev\\formationcs\\second_project\\polymorphism\\teacher2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\teacher2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|c:\\dev\\formationcs\\second_project\\polymorphism\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\employee2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|c:\\dev\\formationcs\\second_project\\polymorphism\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|c:\\dev\\formationcs\\second_project\\polymorphism\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD83DAF-E438-4BAA-B682-B95AF27258BF}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C7FD946-BFA5-41ED-897F-E88EA411AA5B}|Abstract\\Abstract.csproj|c:\\dev\\formationcs\\second_project\\abstract\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7FD946-BFA5-41ED-897F-E88EA411AA5B}|Abstract\\Abstract.csproj|solutionrelative:abstract\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Teacher2.cs",
-              "DocumentMoniker": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Teacher2.cs",
-              "RelativeDocumentMoniker": "Polymorphism\\Teacher2.cs",
-              "ToolTip": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Teacher2.cs",
-              "RelativeToolTip": "Polymorphism\\Teacher2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Dev\\FormationCs\\Second_project\\Abstract\\Form1.cs",
+              "RelativeDocumentMoniker": "Abstract\\Form1.cs",
+              "ToolTip": "C:\\Dev\\FormationCs\\Second_project\\Abstract\\Form1.cs*",
+              "RelativeToolTip": "Abstract\\Form1.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAIA9wCsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:41:49.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee2.cs",
-              "DocumentMoniker": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Employee2.cs",
-              "RelativeDocumentMoniker": "Polymorphism\\Employee2.cs",
-              "ToolTip": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Employee2.cs",
-              "RelativeToolTip": "Polymorphism\\Employee2.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:41:41.455Z",
+              "WhenOpened": "2025-01-19T10:02:49.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Form1.cs",
-              "RelativeDocumentMoniker": "Polymorphism\\Form1.cs",
-              "ToolTip": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Form1.cs*",
-              "RelativeToolTip": "Polymorphism\\Form1.cs*",
-              "ViewState": "AQIAACgAAAAAAAAAAAAtwC8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:29:22.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Teacher.cs",
-              "RelativeDocumentMoniker": "Polymorphism\\Teacher.cs",
-              "ToolTip": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Teacher.cs",
-              "RelativeToolTip": "Polymorphism\\Teacher.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:25:07.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Employee.cs",
-              "RelativeDocumentMoniker": "Polymorphism\\Employee.cs",
-              "ToolTip": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Employee.cs",
-              "RelativeToolTip": "Polymorphism\\Employee.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:23:42.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Conception]",
-              "DocumentMoniker": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Form1.cs",
-              "RelativeDocumentMoniker": "Polymorphism\\Form1.cs",
-              "ToolTip": "C:\\Dev\\FormationCs\\Second_project\\Polymorphism\\Form1.cs [Conception]*",
-              "RelativeToolTip": "Polymorphism\\Form1.cs [Conception]*",
+              "DocumentMoniker": "C:\\Dev\\FormationCs\\Second_project\\Abstract\\Form1.cs",
+              "RelativeDocumentMoniker": "Abstract\\Form1.cs",
+              "ToolTip": "C:\\Dev\\FormationCs\\Second_project\\Abstract\\Form1.cs [Conception]*",
+              "RelativeToolTip": "Abstract\\Form1.cs [Conception]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T09:18:33.87Z",
+              "WhenOpened": "2025-01-19T10:02:34.595Z",
               "EditorCaption": " [Conception]"
             }
           ]
