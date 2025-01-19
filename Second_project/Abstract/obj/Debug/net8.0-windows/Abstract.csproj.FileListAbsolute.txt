@@ -1,0 +1,17 @@
+C:\Dev\FormationCs\Second_project\Abstract\bin\Debug\net8.0-windows\Abstract.exe
+C:\Dev\FormationCs\Second_project\Abstract\bin\Debug\net8.0-windows\Abstract.deps.json
+C:\Dev\FormationCs\Second_project\Abstract\bin\Debug\net8.0-windows\Abstract.runtimeconfig.json
+C:\Dev\FormationCs\Second_project\Abstract\bin\Debug\net8.0-windows\Abstract.dll
+C:\Dev\FormationCs\Second_project\Abstract\bin\Debug\net8.0-windows\Abstract.pdb
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.Form1.resources
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.csproj.GenerateResource.cache
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.AssemblyInfoInputs.cache
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.AssemblyInfo.cs
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.csproj.CoreCompileInputs.cache
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.sourcelink.json
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.dll
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\refint\Abstract.dll
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.pdb
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\Abstract.genruntimeconfig.cache
+C:\Dev\FormationCs\Second_project\Abstract\obj\Debug\net8.0-windows\ref\Abstract.dll
