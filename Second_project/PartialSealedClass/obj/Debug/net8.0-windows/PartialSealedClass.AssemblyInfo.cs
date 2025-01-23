@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Polymorphism")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PartialSealedClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58832ffac092d9216afcae57f6acbbd668b56b93")]
-[assembly: System.Reflection.AssemblyProductAttribute("Polymorphism")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Polymorphism")]
+[assembly: System.Reflection.AssemblyProductAttribute("PartialSealedClass")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PartialSealedClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
