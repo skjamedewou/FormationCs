@@ -1,0 +1,17 @@
+C:\Dev\FormationCs\Second_project\PartialSealedClass\bin\Debug\net8.0-windows\PartialSealedClass.exe
+C:\Dev\FormationCs\Second_project\PartialSealedClass\bin\Debug\net8.0-windows\PartialSealedClass.deps.json
+C:\Dev\FormationCs\Second_project\PartialSealedClass\bin\Debug\net8.0-windows\PartialSealedClass.runtimeconfig.json
+C:\Dev\FormationCs\Second_project\PartialSealedClass\bin\Debug\net8.0-windows\PartialSealedClass.dll
+C:\Dev\FormationCs\Second_project\PartialSealedClass\bin\Debug\net8.0-windows\PartialSealedClass.pdb
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.Form1.resources
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.csproj.GenerateResource.cache
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.AssemblyInfoInputs.cache
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.AssemblyInfo.cs
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.csproj.CoreCompileInputs.cache
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.sourcelink.json
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.dll
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\refint\PartialSealedClass.dll
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.pdb
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\PartialSealedClass.genruntimeconfig.cache
+C:\Dev\FormationCs\Second_project\PartialSealedClass\obj\Debug\net8.0-windows\ref\PartialSealedClass.dll
