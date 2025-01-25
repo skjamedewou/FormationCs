@@ -1,0 +1,17 @@
+C:\Dev\FormationCs\Second_project\File_FileInfo\bin\Debug\net8.0-windows\File_FileInfo.exe
+C:\Dev\FormationCs\Second_project\File_FileInfo\bin\Debug\net8.0-windows\File_FileInfo.deps.json
+C:\Dev\FormationCs\Second_project\File_FileInfo\bin\Debug\net8.0-windows\File_FileInfo.runtimeconfig.json
+C:\Dev\FormationCs\Second_project\File_FileInfo\bin\Debug\net8.0-windows\File_FileInfo.dll
+C:\Dev\FormationCs\Second_project\File_FileInfo\bin\Debug\net8.0-windows\File_FileInfo.pdb
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.Form1.resources
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.csproj.GenerateResource.cache
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.AssemblyInfoInputs.cache
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.AssemblyInfo.cs
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.csproj.CoreCompileInputs.cache
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.sourcelink.json
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.dll
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\refint\File_FileInfo.dll
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.pdb
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\File_FileInfo.genruntimeconfig.cache
+C:\Dev\FormationCs\Second_project\File_FileInfo\obj\Debug\net8.0-windows\ref\File_FileInfo.dll
