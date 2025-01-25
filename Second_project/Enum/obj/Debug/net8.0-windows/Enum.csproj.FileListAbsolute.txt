@@ -1,0 +1,17 @@
+C:\Dev\FormationCs\Second_project\Enum\bin\Debug\net8.0-windows\Enum.exe
+C:\Dev\FormationCs\Second_project\Enum\bin\Debug\net8.0-windows\Enum.deps.json
+C:\Dev\FormationCs\Second_project\Enum\bin\Debug\net8.0-windows\Enum.runtimeconfig.json
+C:\Dev\FormationCs\Second_project\Enum\bin\Debug\net8.0-windows\Enum.dll
+C:\Dev\FormationCs\Second_project\Enum\bin\Debug\net8.0-windows\Enum.pdb
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.Form1.resources
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.csproj.GenerateResource.cache
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.AssemblyInfoInputs.cache
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.AssemblyInfo.cs
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.csproj.CoreCompileInputs.cache
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.sourcelink.json
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.dll
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\refint\Enum.dll
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.pdb
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\Enum.genruntimeconfig.cache
+C:\Dev\FormationCs\Second_project\Enum\obj\Debug\net8.0-windows\ref\Enum.dll
